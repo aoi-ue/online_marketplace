@@ -1,26 +1,26 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
 ### Built With
 
-This section contains list tools/frameworks that were used to built project. Leave any (new) add-ons/plugins 
+This section contains list tools/frameworks that were used to built project. Please update accordingly for any (new) add-ons/plugins. 
 
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for client-side
+* [MySQL](https://dev.mysql.com/) as database 
+* [Express](https://expressjs.com/) for server-side 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps. 
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+
+> **PLEASE SET-UP YOUR** [MACHINE](https://thoughtworks-jumpstart.gitbook.io/book/machine-setup) if you have not. The following command will not work if it is not set up correctly. 
+
 * npm
   ```sh
   npm install npm@latest -g
@@ -31,7 +31,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/yuhanyuhan/online_marketPlace
    ```
 3. Install NPM packages
    ```sh
